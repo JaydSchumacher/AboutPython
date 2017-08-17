@@ -1,0 +1,161 @@
+* {
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	border: 0 none;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+	}
+
+  .container {
+    background-color: #4753D6;
+    height: 1080px;
+    width: 970px;
+  }
+
+  .header {
+    margin-bottom: 50px;
+  }
+
+  .textSearch {
+    display: inline-block;
+		color: white;
+  }
+
+  #pheader {
+    vertical-align: top;
+    margin-left: 400px;
+  }
+
+	.textSize {
+		color: gold;
+	}
+
+	span {
+		color: black;
+	}
+
+	h4 {
+		display: inline-block;
+		background-color: blue;
+		padding: 5px;
+		border-color: white;
+		border-style: solid;
+		border-width: 2px;
+	}
+
+	.blackbox {
+		background-color: black;
+		margin-left: 250px;
+		border-radius: 10px;
+	}
+
+	#pSearch {
+		color: black;
+		padding: 10px 40px;
+		background-color: white;
+		display: inline-block;
+		margin: 10px 40px;
+	}
+
+  .headerbottom {
+  }
+
+  .section1 {
+    margin: 20px;
+  }
+
+  .navbarmain {
+		background-color: #90C3D4;
+		margin: 25px;
+		padding: 20px;
+		border-radius: 10px;
+		box-shadow: 5px 5px black;
+	}
+
+	.mainnav {
+		color: white;
+		text-decoration: none;
+		padding: 30px;
+		font-size: 20px;
+	}
+
+  .sidelinks {
+    margin-left: 50px;
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+    text-align: center;
+    list-style-position: inside;
+  }
+
+  #ulsidelinks {
+    text-decoration: underline;
+  }
+
+  .sec1content {
+    display: inline-block;
+    width: 500px;
+    vertical-align: top;
+    margin-left: 50px;
+    color: white;
+    text-align: center;
+  }
+
+  #ulcontent {
+    color: gold;
+    list-style-type: none;
+    font-size: 20px;
+    font-style: italic;
+  }
+
+  #zen {
+    margin: 10px;
+  }
+
+  .section2 {
+    background-color: white;
+    margin: 20px;
+		padding: 20px;
+  }
+
+  .footerlinks {
+    text-align: center;
+    padding: 5px;
+  }
+
+  .sec2part1 {
+    width: 400px;
+    display: inline-block;
+    text-align: center;
+    list-style-position: inside;
+    vertical-align: top;
+  }
+
+  .sec2part2 {
+    width: 400px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 15px;
+    list-style-position: inside;
+  }
+
+  .footer {
+    color: white;
+    text-align: center;
+  }
+
+  h6 {
+    display: inline-block;
+  }
+
+  h3 {
+    font-weight: bold;
+    border-top: solid;
+    border-color: blue;
+    border-width: 3px;
+    margin-top: 10px;
+  }
